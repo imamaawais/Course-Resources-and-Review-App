@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1090421545419",
+    "project_id": "course-tracker-47fb0",
+    "storage_bucket": "course-tracker-47fb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090421545419:android:1cc347c9bec21665443e4e",
+        "android_client_info": {
+          "package_name": "com.example.course_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090421545419-rvngegptj7h6e5gf5cdiu05lbnvel00f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAavdgvwzHz_pIYbOBKC-xjOyfNgv8joI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090421545419-rvngegptj7h6e5gf5cdiu05lbnvel00f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1090421545419-mi79r240ipuomor8vnofbupojos2eso8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.courseTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
