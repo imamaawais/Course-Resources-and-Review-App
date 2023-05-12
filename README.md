@@ -1,16 +1,6 @@
 # course_tracker
 
-A new Flutter project.
+The system allows students to find and share reviews and resources regarding courses that the university offers, so it can help them decide which course to opt for.
+Each course review consists of a written feedback and a 5-star rating, which are displayed on the system for other students to see. Resources are added in the form of a link along with its description.
+Administrators can add courses and manage which reviews and resources are displayed to the students. The history of these actions are also saved to reevaluate and undo the changes.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
